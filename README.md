@@ -13,8 +13,8 @@
 | Category        | Tools & Technologies |
 |----------------|----------------------|
 | Languages      | JavaScript, Java |
-| Frameworks and Libraries     | ReactJS, ExpressJS, Tailwind, Mongoose, Supabase, SocketIo |
-| Tools  | Postman, ThunderClient |
+| Frameworks and Libraries     | ReactJS, ExpressJS, Tailwind, Mongoose, Supabase, SocketIo, Axios |
+| Tools  | Postman, ThunderClient, Git |
 | Databases  | Mongo, Sql Server, Supabase, Neon |
 
 
