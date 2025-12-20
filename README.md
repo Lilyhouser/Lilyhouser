@@ -25,10 +25,10 @@
 
 ## 🚀 Featured Projects
 
-- **SoulSync (backend): (https://github.com/lilyhouser/project-a](https://github.com/nobitandoraemon/SoulSync-be)**  
+- **SoulSync (backend): (https://github.com/nobitandoraemon/SoulSync-be)**  
   💗 Find soulmate of you in one click.
 
-- **Warehouse Management System (fullstack): (https://github.com/lilyhouser/project-b](https://github.com/orgs/swp-wms/repositories)**  
+- **Warehouse Management System (fullstack): (https://github.com/orgs/swp-wms/repositories)**  
   🏗 Make warehouse management process easier and prettier.
 
 ---
