@@ -12,8 +12,8 @@
 ## 🛠️ Tech & Tools
 | Category        | Tools & Technologies |
 |----------------|----------------------|
-| Languages      | JavaScript, Java |
-| Frameworks and Libraries     | ReactJS, ExpressJS, Tailwind, Mongoose, Supabase, SocketIo, Axios |
+| Languages      | TypeScript, JavaScript, Java |
+| Frameworks and Libraries     | ReactJS, NextJS, ExpressJS, Tailwind, Mongoose, Supabase, SocketIo, Axios, AntDesign |
 | Tools  | Postman, ThunderClient, Git |
 | Databases  | Mongo, Sql Server, Supabase, Neon |
 
