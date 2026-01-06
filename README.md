@@ -36,6 +36,6 @@
 ## 📬 Connect with Me
 - 🐦 Facebook: [@QuynhNga](https://www.facebook.com/nga.sy.9822/)  
 - 🔗 LinkedIn: [LilyHouse](https://www.linkedin.com/in/lily-house-412208372/)  
-- 💻 Portfolio: [lilyhouser.dev](https://lilyhouser.dev)  --coming soon
+- 💻 Portfolio: [lilyhouser]([https://lilyhouser.dev](https://lily-portfolio-peach.vercel.app/))
 
 
