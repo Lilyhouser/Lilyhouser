@@ -3,10 +3,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/lilyhouser?label=Follow&style=social)](https://github.com/lilyhouser?tab=followers)
 
 ## 💼 About Me
-- 🌱 I’m currently obsessed with **ReactJS and NextJS** to deepen skills in **Fontend development**.
-- 🌻 I’m diving in **Socket IO** to master **Delveloping real-time operations**.
-- 👯 I’m open to collaborating on projects involving **Express, React and a lot more**, which can help me improve myself day by day.
-- 💬 It's an honor if you ask me about **[Web development]**.
+- 🌱 Current Obsession: Architecting real-time systems and exploring the latest Next.js App Router features.
+- 🔭 Working on: Developing a proximity-based social interaction app using BLE and AI-driven features.
+- 🤝 Open for: Collaborating on Full-stack projects that challenge my skills in Express, React, and beyond.
+- 🌏 Multilingual Learner: Coding in JavaScript, communicating in Vietnamese/English, and currently decoding Mandarin (Hanzi).
 - 📬 Please reach me at **houselily010@gmail.com**.
 
 ## 🛠️ Tech & Tools
